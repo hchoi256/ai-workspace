@@ -22,6 +22,8 @@
 
 [**CNN**: MNIST with Tensorflow](https://github.com/hchoi256/ai-workspace/blob/main/codes/MNIST-with-tensorflow.ipynb)
 
+[**ANN**: House Sales Prediction](https://hchoi256.github.io/dl/dl-ann-house-sales-prediction/)
+
 [**ANN**: Car Sales Prediction](https://github.com/hchoi256/machine-learning-development/blob/main/Project%201%20-%20Car%20Purchase%20Amount%20Predictions%20Using%20ANNs.ipynb)
 
 [**ANN**: Regression on Business Problem](https://github.com/hchoi256/ai-workspace/blob/main/codes/artificial_neural_network.ipynb)
