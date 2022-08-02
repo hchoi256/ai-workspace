@@ -1,5 +1,5 @@
 # *Machine Learning*
-> 2022
+> *2022*
 
 [**Regression**: Radar Sensor Prediction - Hackathon](https://github.com/hchoi256/lg-ai-auto-driving-radar-sensor/blob/main/%5BSubmission%5D_Multioutput%20LinearRegression.ipynb)
 
@@ -14,7 +14,7 @@
 [User Collaborative Filtering](https://github.com/hchoi256/machine-learning-development/blob/main/Project%208%20-%20Movie%20Recommender%20System.ipynb)
 
 # *Deep Learning*
-> 2022
+> *2022*
 
 [**Deep Learning**: Project Development - *AI Bootcamp*](https://github.com/hchoi256/ai-boot-camp/tree/main/ai/deep-learning)
 
@@ -33,7 +33,7 @@
 [**LeNet DNN**: Traffic Signs Classification](https://github.com/hchoi256/machine-learning-development/blob/main/Project%205%20-%20Traffic%20Sign%20Classification%20Using%20LeNet%20Network%20in%20Keras.ipynb)
 
 # *NLP*
-> 2022
+> *2022*
 
 [**NLP**: Simple Sentiment Analysis](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/nlp/natural_language_processing.ipynb)
 
