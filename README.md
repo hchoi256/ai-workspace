@@ -6,7 +6,7 @@
 [**Machine Learning**: Project Development - *AI Bootcamp*](https://github.com/hchoi256/ai-boot-camp/tree/main/ai/machine-learning)
 
 [**Machine Learning**: Lecture Project Development - *CS540*](https://github.com/hchoi256/cs540-AI)
-2
+
 [**Time Series**: Chicago Crime Rate](https://github.com/hchoi256/machine-learning-development/blob/main/Project%203%20-%20Predict%20Crime%20Rate%20in%20Chicago.ipynb)
 
 [**Time Series**: Avocado Market](https://github.com/hchoi256/machine-learning-development/blob/main/Project%204%20-%20Avocado%20Prices%20Prediction.ipynb)
