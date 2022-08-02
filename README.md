@@ -20,6 +20,8 @@
 
 [**ANN**: Regression on Business Problem](https://github.com/hchoi256/ai-workspace/blob/main/codes/artificial_neural_network.ipynb)
 
+[**ANN**: Bike Rental Prediction](https://hchoi256.github.io/dl/dl-ann-for-bike-rentals-prediction/)
+
 [**DNN**: CIFAR-10 Classification](https://github.com/hchoi256/machine-learning-development/blob/main/Project%202%20-%20CiFAR-10%20Images%20Classification%20Using%20CNNs.ipynb)
 
 [**LeNet DNN**: Traffic Signs Classification](https://github.com/hchoi256/machine-learning-development/blob/main/Project%205%20-%20Traffic%20Sign%20Classification%20Using%20LeNet%20Network%20in%20Keras.ipynb)
