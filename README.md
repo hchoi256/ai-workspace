@@ -41,5 +41,5 @@
 
 [**NLP**: Simple Sentiment Analysis](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/nlp/natural_language_processing.ipynb)
 
-[**NLP**: Project Development - *NLP Training Programme*](https://hchoi256.github.io/categories/#nlp)
+[**NLP**: Project Developments - *NLP Training Programme*](https://hchoi256.github.io/categories/#nlp)
 
