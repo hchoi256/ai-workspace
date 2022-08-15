@@ -5,7 +5,7 @@
 
 [**Machine Learning**: Project Development - *AI Bootcamp*](https://github.com/hchoi256/ai-boot-camp/tree/main/ai/machine-learning)
 
-[**A-star Search** - 8-tile Puzzle Game](https://hchoi256.github.io/ml/ml-8-tile-puzzle-a-search/)
+[**A-star Search**: *Game* - 8-tile Puzzle Game](https://hchoi256.github.io/ml/ml-8-tile-puzzle-a-search/)
 
 [**Hierarchical Agglomerate Clustering(HAC)** - 포켓몬 군집화](https://hchoi256.github.io/ml/ml-hca/)
 
@@ -15,34 +15,34 @@
 
 [**Minimax** 알고리즘 - Teeko Game](https://hchoi256.github.io/ml/ml-teeko-minimax/)
 
-[**Time Series**: Chicago Crime Rate](https://hchoi256.github.io/ml/ml-projects-3/)
+[**Time Series**: *Regression* - Chicago Crime Rate](https://hchoi256.github.io/ml/ml-projects-3/)
 
-[**Time Series**: Avocado Market](https://hchoi256.github.io/ml/ml-projects-3/)
+[**Time Series**: *Regression* - Avocado Market](https://hchoi256.github.io/ml/ml-projects-3/)
 
-[User Collaborative Filtering](https://hchoi256.github.io/ml/ml-projects-6/)
+[User Collaborative Filtering: *Correlation*](https://hchoi256.github.io/ml/ml-projects-6/)
 
 # *Deep Learning*
 > *2022*
 
 [**Deep Learning**: Project Development - *AI Bootcamp*](https://github.com/hchoi256/ai-boot-camp/tree/main/ai/deep-learning)
 
-[**CNN**: MNIST with Tensorflow](https://hchoi256.github.io/dl/dl-mnist/)
+[**CNN**: *Classification* - MNIST with Tensorflow](https://hchoi256.github.io/dl/dl-mnist/)
 
-[**CNN**: fashionMNIST with Tensorflow](https://hchoi256.github.io/dl/dl-cnn-classification-fashionMNIST/)
+[**CNN**: *Classification* - fashionMNIST with Tensorflow](https://hchoi256.github.io/dl/dl-cnn-classification-fashionMNIST/)
 
-[**ANN**: House Sales Prediction](https://hchoi256.github.io/dl/dl-ann-house-sales-prediction/)
+[**ANN**: *Regression* - House Sales Prediction](https://hchoi256.github.io/dl/dl-ann-house-sales-prediction/)
 
-[**ANN**: Car Sales Prediction](https://hchoi256.github.io/ml/ml-projects-1/)
+[**ANN**: *Regression* - Car Sales Prediction](https://hchoi256.github.io/ml/ml-projects-1/)
 
-[**ANN**: Classification - Diabetes Prediction](https://hchoi256.github.io/dl/dl-ann-classification-diabetes/)
+[**ANN**: *Classification* - Diabetes Prediction](https://hchoi256.github.io/dl/dl-ann-classification-diabetes/)
 
-[**ANN**: Bike Rental Prediction](https://hchoi256.github.io/dl/dl-ann-for-bike-rentals-prediction/)
+[**ANN**: *Regression* - Bike Rental Prediction](https://hchoi256.github.io/dl/dl-ann-for-bike-rentals-prediction/)
 
-[**DNN**: CIFAR-10 Classification](https://hchoi256.github.io/ml/ml-projects-2/)
+[**DNN**: *Classification* - CIFAR-10 Classification](https://hchoi256.github.io/ml/ml-projects-2/)
 
-[**LeNet DNN**: Traffic Signs Classification](https://hchoi256.github.io/ml/ml-projects-4/)
+[**LeNet**: *Classification* - Traffic Signs Classification](https://hchoi256.github.io/ml/ml-projects-4/)
 
-[**LeNet**: MiniPlaces 이미지 분류](https://hchoi256.github.io/dl/dl-miniplace-classification/)
+[**LeNet**: *Classification* - MiniPlaces 이미지 분류](https://hchoi256.github.io/dl/dl-miniplace-classification/)
 
 # *NLP*
 > *2022*
