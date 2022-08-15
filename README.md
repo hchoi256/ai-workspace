@@ -34,9 +34,9 @@
 
 [**ANN**: *Regression* - Car Sales Prediction](https://hchoi256.github.io/ml/ml-projects-1/)
 
-[**ANN**: *Classification* - Diabetes Prediction](https://hchoi256.github.io/dl/dl-ann-classification-diabetes/)
-
 [**ANN**: *Regression* - Bike Rental Prediction](https://hchoi256.github.io/dl/dl-ann-for-bike-rentals-prediction/)
+
+[**ANN**: *Classification* - Diabetes Prediction](https://hchoi256.github.io/dl/dl-ann-classification-diabetes/)
 
 [**DNN**: *Classification* - CIFAR-10 Classification](https://hchoi256.github.io/ml/ml-projects-2/)
 
