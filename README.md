@@ -5,36 +5,44 @@
 
 [**Machine Learning**: Project Development - *AI Bootcamp*](https://github.com/hchoi256/ai-boot-camp/tree/main/ai/machine-learning)
 
-[**Machine Learning**: Lecture Project Development - *CS540*](https://github.com/hchoi256/cs540-AI)
+[**A* Search** - 8-tile Puzzle Game](https://hchoi256.github.io/ml/ml-8-tile-puzzle-a-search/)
 
-[**Time Series**: Chicago Crime Rate](https://github.com/hchoi256/machine-learning-development/blob/main/Project%203%20-%20Predict%20Crime%20Rate%20in%20Chicago.ipynb)
+[**Hierarchical Agglomerate Clustering(HAC)** - 포켓몬 군집화](https://hchoi256.github.io/ml/ml-hca/)
 
-[**Time Series**: Avocado Market](https://github.com/hchoi256/machine-learning-development/blob/main/Project%204%20-%20Avocado%20Prices%20Prediction.ipynb)
+[**PCA** - Image Compression(이미지 압축)](https://hchoi256.github.io/ml/ml-pca/)
 
-[User Collaborative Filtering](https://github.com/hchoi256/machine-learning-development/blob/main/Project%208%20-%20Movie%20Recommender%20System.ipynb)
+[**Reinforcement Learning**: Q-Learning 알고리즘](https://hchoi256.github.io/ml/ml-reinforcement-learning-q-learning/)
+
+[**Minimax** 알고리즘 - Teeko Game](https://hchoi256.github.io/ml/ml-teeko-minimax/)
+
+[**Time Series**: Chicago Crime Rate](https://hchoi256.github.io/ml/ml-projects-3/)
+
+[**Time Series**: Avocado Market](https://hchoi256.github.io/ml/ml-projects-3/)
+
+[User Collaborative Filtering](https://hchoi256.github.io/ml/ml-projects-6/)
 
 # *Deep Learning*
 > *2022*
 
 [**Deep Learning**: Project Development - *AI Bootcamp*](https://github.com/hchoi256/ai-boot-camp/tree/main/ai/deep-learning)
 
-[**Deep Learning**: Lecture Project Development - *CS540*](https://github.com/hchoi256/cs540-AI)
-
-[**CNN**: MNIST with Tensorflow](https://github.com/hchoi256/ai-workspace/blob/main/codes/MNIST-with-tensorflow.ipynb)
+[**CNN**: MNIST with Tensorflow](https://hchoi256.github.io/dl/dl-mnist/)
 
 [**CNN**: fashionMNIST with Tensorflow](https://hchoi256.github.io/dl/dl-cnn-classification-fashionMNIST/)
 
 [**ANN**: House Sales Prediction](https://hchoi256.github.io/dl/dl-ann-house-sales-prediction/)
 
-[**ANN**: Car Sales Prediction](https://github.com/hchoi256/machine-learning-development/blob/main/Project%201%20-%20Car%20Purchase%20Amount%20Predictions%20Using%20ANNs.ipynb)
+[**ANN**: Car Sales Prediction](https://hchoi256.github.io/ml/ml-projects-1/)
 
-[**ANN**: Regression on Business Problem](https://github.com/hchoi256/ai-workspace/blob/main/codes/artificial_neural_network.ipynb)
+[**ANN**: Classification - Diabetes Prediction](https://hchoi256.github.io/dl/dl-ann-classification-diabetes/)
 
 [**ANN**: Bike Rental Prediction](https://hchoi256.github.io/dl/dl-ann-for-bike-rentals-prediction/)
 
-[**DNN**: CIFAR-10 Classification](https://github.com/hchoi256/machine-learning-development/blob/main/Project%202%20-%20CiFAR-10%20Images%20Classification%20Using%20CNNs.ipynb)
+[**DNN**: CIFAR-10 Classification](https://hchoi256.github.io/ml/ml-projects-2/)
 
-[**LeNet DNN**: Traffic Signs Classification](https://github.com/hchoi256/machine-learning-development/blob/main/Project%205%20-%20Traffic%20Sign%20Classification%20Using%20LeNet%20Network%20in%20Keras.ipynb)
+[**LeNet DNN**: Traffic Signs Classification](https://hchoi256.github.io/ml/ml-projects-4/)
+
+[**LeNet**: MiniPlaces 이미지 분류](https://hchoi256.github.io/dl/dl-miniplace-classification/)
 
 # *NLP*
 > *2022*
