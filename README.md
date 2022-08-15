@@ -5,7 +5,7 @@
 
 [**Machine Learning**: Project Development - *AI Bootcamp*](https://github.com/hchoi256/ai-boot-camp/tree/main/ai/machine-learning)
 
-[**A* Search** - 8-tile Puzzle Game](https://hchoi256.github.io/ml/ml-8-tile-puzzle-a-search/)
+[**A-star Search** - 8-tile Puzzle Game](https://hchoi256.github.io/ml/ml-8-tile-puzzle-a-search/)
 
 [**Hierarchical Agglomerate Clustering(HAC)** - 포켓몬 군집화](https://hchoi256.github.io/ml/ml-hca/)
 
