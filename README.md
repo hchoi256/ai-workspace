@@ -47,7 +47,8 @@
 # *NLP*
 > *2022*
 
+[**NLP**: Article Summarizer & Translating Tool](https://hchoi256.github.io/nlp/text-summarization-attention/)
+
 [**NLP**: Simple Sentiment Analysis](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/nlp/natural_language_processing.ipynb)
 
 [**NLP**: Project Developments - *NLP Training Programme*](https://hchoi256.github.io/categories/#nlp)
-
