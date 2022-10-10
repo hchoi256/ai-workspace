@@ -1,7 +1,7 @@
 # *AI Research Project*
 > *2022*
 
-[**CARLA Sensing/Perception Research Project*](https://github.com/hchoi256/carla-research-project)
+[**CARLA Sensing/Perception Research Project**](https://github.com/hchoi256/carla-research-project)
 
 # *Machine Learning*
 > *2022*
