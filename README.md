@@ -21,6 +21,11 @@
 
 [User Collaborative Filtering: *Correlation*](https://hchoi256.github.io/sl/projects-6/)
 
+# *AI Research Project*
+> *2022*
+
+[**CARLA Sensing/Perception Research Project*](https://github.com/hchoi256/carla-research-project)
+
 # *Deep Learning*
 > *2022*
 
